@@ -1,0 +1,6 @@
+streamlit
+langchain
+langchain_ollama
+newspaper3k
+beautifulsoup4
+PyPDF2 
