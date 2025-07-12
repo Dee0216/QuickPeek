@@ -9,10 +9,7 @@ QuickPeek is a fun, fast, and friendly AI-powered summarizer for news articles, 
 - 🎉 Playful, modern UI with mascot, confetti, and animations
 - 💻 Powered by advanced language models (LangChain + Ollama)
 
-## Screenshots
-> _Add your screenshots here!_
 
----
 
 ## Installation
 1. **Clone the repository:**
@@ -43,13 +40,11 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 
 ---
 
-## License
-[MIT](LICENSE)
 
 ---
 
 ## Contact
-- GitHub: [yourusername/QuickPeek](https://github.com/yourusername/QuickPeek)
-- Email: your@email.com
+- GitHub:(https://github.com/Dee0216/QuickPeek)
+- Email: deepikamuniyor2003@gmail.com
 
 _Made with 🦉 and Streamlit_ 
